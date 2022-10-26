@@ -1,0 +1,14 @@
+.login {
+  border: solid 1px blue;
+  height: 500px;
+  margin: 20px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login label {
+  margin: 10px 0 10px;
+}
+.login input {
+  width: 350px;
+}
